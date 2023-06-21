@@ -26,4 +26,5 @@ public class Employee {
     private Integer age;
     @Column(name = "city_id")
     private Integer city_id;
+
 }

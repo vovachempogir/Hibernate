@@ -19,4 +19,5 @@ public class City {
     private Integer city_id;
     @Column
     private String city_name;
+
 }
